@@ -95,9 +95,9 @@ Partial Class lblDate
         Me.btnTecladoVirtual.Font = New System.Drawing.Font("Microsoft Sans Serif", 6.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnTecladoVirtual.ForeColor = System.Drawing.Color.DimGray
         Me.btnTecladoVirtual.Image = Global.Consultador.My.Resources.Resources.keyboard
-        Me.btnTecladoVirtual.Location = New System.Drawing.Point(353, 397)
+        Me.btnTecladoVirtual.Location = New System.Drawing.Point(353, 400)
         Me.btnTecladoVirtual.Name = "btnTecladoVirtual"
-        Me.btnTecladoVirtual.Size = New System.Drawing.Size(77, 68)
+        Me.btnTecladoVirtual.Size = New System.Drawing.Size(77, 65)
         Me.btnTecladoVirtual.TabIndex = 4
         Me.btnTecladoVirtual.UseVisualStyleBackColor = False
         '
